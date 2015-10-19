@@ -1,0 +1,44 @@
+html, body {
+  font-family: 'HelveticaNeue-Light', Helvetica, sans-serif;
+  font-size: 1.2em;
+  color: #ffffff;
+  background: linear-gradient(120deg, #66cccc, #009999, #006699);
+  background-size: 100%;
+  padding: 3em 1em;
+}
+
+h1 {
+  font-family: 'HelveticaNeue-Light', Helvetica, sans-serif;
+  font-size: 6em;
+  color: #fff;
+  font-weight: 700;
+  line-height: 1em;
+}
+
+p {
+  font-size: 1.3em;
+  line-height: 1em;
+  margin-top: .7em;
+}
+
+a {
+  color: #fff;
+}
+
+.about {
+  margin-top: 1em;
+}
+
+.donate {
+  margin-top: 3.5em;
+}
+
+a:hover {
+  color: #05fbff;
+  text-decoration: overline;
+}
+
+a.donations {
+  font-size: 3em;
+  display: block;
+}
